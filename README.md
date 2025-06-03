@@ -1,10 +1,10 @@
 # 💰 Profit-Driven Analytics: A Financial SQL Case Study
 
 ## 📌 Overview
-This project is a real-world case study based on my experience as a **Data Analyst at Tisai Consultants Pvt. Ltd.**, a financial trading company. I rebuilt a simplified version of our internal data ecosystem using **PostgreSQL** and used advanced **SQL queries** to uncover actionable insights that drove measurable business value.
+This project is a real-world case study based on my experience as a **Data Analyst at Tisai Consultants Pvt. Ltd.**, a financial trading company. I rebuilt a simplified version of our internal data ecosystem using **SQL** and used advanced **SQL queries** to uncover actionable insights that drove measurable business value.
 
 ## 🧠 What I Did
-- Designed a relational database schema from scratch (PostgreSQL)
+- Designed a relational database schema from scratch
 - Created synthetic datasets to simulate financial transactions, product metadata, vendor payments, and usage data
 - Wrote production-ready SQL queries to solve real business problems:
   - Identified top-performing products by revenue
@@ -49,4 +49,4 @@ I'm a data analytics professional with a Master’s degree in Data Analytics Eng
 
 ---
 
-**⭐ If this project resonates with you, feel free to star or connect with me on [LinkedIn](https://www.linkedin.com/in/your-link-here)**  
+**⭐ If this project resonates with you, feel free to star or connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-rajmani/)**  
